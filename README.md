@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**komkawila/komkawila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 🖥 Hi there..👋
+## 🖥 Hi ..👋
 
 <h3>I'm Phanuwat Kawila, a passionate Full Stack Developer from Thailand</h3>
 
@@ -33,7 +29,9 @@
 </p>
 
 <h3 align="left">Contact:</h3>
-<p><img alt="LINE" src="https://img.shields.io/badge/:komkawila-138D00?style=for-the-badge&logo=line&logoColor=green"/> sdsd</p>
+<p><img alt="LINE" src="https://img.shields.io/badge/:komkawila-138D00?style=for-the-badge&logo=line&logoColor=green"/></p>
+<p><img alt="FACEBOOK" src="https://img.shields.io/badge/:komkawila-138D00?style=for-the-badge&logo=facebook&logoColor=green"/></p>
+<p><img alt="TEL" src="https://img.shields.io/badge/:komkawila-138D00?style=for-the-badge&logo=tel&logoColor=green"/></p>
 ## Github Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komkawila&layout=compact&theme=white" alt="gurupawar" width=48%" >
