@@ -30,8 +30,8 @@
 
 <h3 align="left">Contact:</h3>
 <p>
-	<img alt="LINE" src="https://img.shields.io/badge/:komkawila-138D00?style=for-the-badge&logo=line&logoColor=green"/>
-	<img alt="FACEBOOK" src="https://img.shields.io/badge/:phanuwat%20kawila-0258A9?style=for-the-badge&logo=facebook&logoColor=white"/>
+	<img alt="LINE" src="https://img.shields.io/badge/:%20komkawila-138D00?style=for-the-badge&logo=line&logoColor=green"/>
+	<img alt="FACEBOOK" src="https://img.shields.io/badge/:%20phanuwat%20kawila-0258A9?style=for-the-badge&logo=facebook&logoColor=white"/>
 	<img alt="TEL" src="https://img.shields.io/badge/TEL%20:%200620243887-005A2B?style=for-the-badge&logo=call&logoColor=white"/>
 </p>
 
