@@ -21,12 +21,14 @@
  <img alt="Android" src="https://img.shields.io/badge/android-339933?style=for-the-badge&logo=android&logoColor=green"/>
  <img alt="IOS" src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logoColor=white"/>
  <img alt="React-Native" src="https://img.shields.io/badge/react%20native-%2320232a?style=for-the-badge&logo=react&logoColor=2361DAFB"/>
+ <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2320232a?style=for-the-badge&logo=flutter&logoColor=blue"/>
 	
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>	
  <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>	
 
  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>	
  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+ <img alt="Arduino" src="https://img.shields.io/badge/arduino-FFFFFF?style=for-the-badge&logo=arduino&logoColor=38B2AC"/>
 	
 </p>
 
