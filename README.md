@@ -33,7 +33,7 @@
 </p>
 
 <h3 align="left">Contact:</h3>
-<p><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> sdsd</p>
+<p><img alt="LINE" src="https://img.shields.io/badge/:komkawila-138D00?style=for-the-badge&logo=line&logoColor=green"/> sdsd</p>
 ## Github Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komkawila&layout=compact&theme=white" alt="gurupawar" width=48%" >
